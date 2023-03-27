@@ -1,4 +1,6 @@
-# eohan_portfolio
+# Eohan's Portfolio
+
+Hi there! I am Eohan, a BS Computer Engineering graduate from the University of the Philippines Diliman with an interest in Data Analysis, Data Science, and Machine Learning. Feel free to look at my projects below :)
 
 ## Project 1: [Data Analysis and Machine Learning on the game Teamfight Tactics](https://github.com/rndmagtanong/ph_tft)
 - Built an ETL Pipeline to collect data from the Riot Developer API
