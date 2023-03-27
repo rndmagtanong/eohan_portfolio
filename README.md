@@ -7,11 +7,19 @@
 - Trained a RandomForestClassifier model to predict whether a composition would win or not
 - Used GridSearchCV to choose the best parameters
 
+![Most Picked 3-2 Augments](images/most_picked_3-2.png)
+
+![Confusion Matrix](images/confusion_matrix_2.png)
+
 ## Project 2: [Laptop Visualization](https://github.com/rndmagtanong/laptop_vis)
 - Used domain knowledge to make first impressions of the dataset
 - Preprocessed and cleaned dataset for easier analysis
 - Analyzed correlation of features to draw conclusions on pricing
 - Used histograms, box plots, and swarm plots to visualize the data
+
+![Laptop Heatmap](images/non_categorical_heatmap.png)
+
+![RAM GB Swarm Plot](images/ram_gb_swarm_plot.png)
 
 ## Project 3: [Income Predictor via Regression](https://github.com/rndmagtanong/filipino_income)
 - Performed feature engineering to choose features most likely correlated to income
